@@ -11,6 +11,7 @@ public class SQRService {
                 counter++;
 
             }
-        } return counter;
+        }
+        return counter;
     }
 }
